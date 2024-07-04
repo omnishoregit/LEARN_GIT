@@ -1,3 +1,7 @@
 When you take actions across GitHub, we’ll provide links to that activity here.
 Adedd a new line..
 Omnidata more code......git remote -v
+
+Hello there...
+
+We've combined the power of the Following feed with the For you feed so there’s one place to discover content on GitHub. There’s improved filtering so you can customize your feed exactly how you like it, and a shiny new visual design. ✨
